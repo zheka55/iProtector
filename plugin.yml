@@ -1,7 +1,7 @@
 name: iProtector
 main: LDX\iProtector\Main
 author: LDX
-version: "2.0"
+version: "2.1"
 load: POSTWORLD
 api: [1.6.0]
 commands:
